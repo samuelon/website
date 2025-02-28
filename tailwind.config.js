@@ -22,7 +22,10 @@ module.exports = {
         payneGray: '#4F6D7A',
         verdigris: '#56A3A6',
         selectiveYellow: '#FFB20F',
-        skyBlue: 'rgba(129,166,195,0.7)'
+        skyBlue: 'rgba(129,166,195,0.7)',
+        trueBlue: '#3066BE',
+        powderBlue: '#B4C5E4',
+        dukeBlue: '#090C9B'
       },
       backgroundImage: {
         'hero-desktop': "url('../images/DSCF6278.jpg')",
